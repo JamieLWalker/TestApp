@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test App", "Test App", "{17D19C5C-C447-4BBD-9BA3-106AB0AA91AA}"
+	ProjectSection(SolutionItems) = preProject
+		config.php = config.php
+		index.php = index.php
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D23DB586-F77E-4913-9871-6BF6B90CD726}
+	EndGlobalSection
+EndGlobal
